@@ -1,10 +1,12 @@
-# Lab 4 — SQLite on-disk format with `xxd`
+# Lab 4 - SQLite on-disk format with `xxd`
 
 **Author:** Pratham Jain  
-**Branch:** `lab4` (Git does not allow spaces in branch names; this is the Lab 4 submission branch)  
+**Branch:** `lab4`   
 **Tooling:** SQLite 3.44.2, `xxd` (Git for Windows)
 
 This lab creates a real SQLite database, dumps it with `xxd`, and walks through **page layout**, **B-tree nodes**, **cell pointers**, and **lookups** using file offsets from the hex dump.
+
+**AI is used to make this documentation better LOL. All other things were done by me! :)**
 
 ---
 
